@@ -2,6 +2,9 @@
 using namespace std;
 
 int main()
-{
-
+{   
+    int x,y;
+    cout << "Enter Numbers:\n" << "x = "; cin >> x;
+    cout << "y = "; cin >> y;
+    return 0;
 }
